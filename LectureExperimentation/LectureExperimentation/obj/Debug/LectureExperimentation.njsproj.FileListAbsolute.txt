@@ -1,0 +1,3 @@
+C:\Users\steph\OneDrive\Documents\GitHub\F28WP-WebProgramming\LectureExperimentation\LectureExperimentation\obj\Debug\LectureExperimentation.njsproj.AssemblyReference.cache
+C:\Users\steph\OneDrive\Documents\GitHub\F28WP-WebProgramming\LectureExperimentation\LectureExperimentation\obj\Debug\LectureExperimentation.njsproj.CoreCompileInputs.cache
+C:\Users\steph\OneDrive\Documents\GitHub\F28WP-WebProgramming\LectureExperimentation\LectureExperimentation\bin\Microsoft.NodejsTools.WebRole.dll
